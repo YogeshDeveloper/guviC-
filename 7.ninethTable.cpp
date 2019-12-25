@@ -2,9 +2,10 @@
 using namespace std;
 int main()
 {
-    int a = 0;
+    int a=0;
     cin>>a;
-    if (a=0)
+    // cout<<a;
+    if (a==0)
     {
         cout<<"NULL";
     }
